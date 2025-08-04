@@ -1,1 +1,1 @@
-SNR Calculado: 5.71 dB
+SNR Calculado: -10.13 dB
